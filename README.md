@@ -22,3 +22,4 @@ Link: (Access Denied)
 5. Highlights
 The Staff are willing to adjust to procedural changes but the company is not willing to invest in the process as they are not 100% sure of the output. 
 
+Dashboard Preview: 
