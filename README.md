@@ -22,4 +22,4 @@ Link: (Access Denied)
 5. Highlights
 The Staff are willing to adjust to procedural changes but the company is not willing to invest in the process as they are not 100% sure of the output. 
 
-Dashboard Preview: 
+Dashboard Preview: (https://github.com/anikchandromtpran/My-Power-BI-/blob/main/Pran%20Retail%20Scenario%2C%20Visualization%20PI.png)
